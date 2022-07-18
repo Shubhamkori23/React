@@ -2,11 +2,13 @@
   "name": "login-page-using-react",
   "version": "0.0.0",
   "description": "First login page using React.js\nstyling with simple layout login page",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
   "author": "Shubham",
-  "license": "ISC"
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "@expo/vector-icons": "6.2.1",
+    "expo": "26.0.0",
+    "react": "16.3.0-alpha.1",
+    "react-native-elements": "0.18.5"
+  }
 }

@@ -1,0 +1,12 @@
+{
+  "name": "login-page-using-react",
+  "version": "0.0.0",
+  "description": "First login page using React.js\nstyling with simple layout login page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shubham",
+  "license": "ISC"
+}
